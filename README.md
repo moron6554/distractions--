@@ -1,7 +1,7 @@
 # 🧠 Distractions--(Distractions minus minus)
 _(lame ahh name ik)_
 
-![banner](assets/banner.png)
+![banner](assets/banner1.svg)
 
 > A script that hard-blocks distracting or explicit websites for a **user-defined duration** — with **no manual override**.
 
