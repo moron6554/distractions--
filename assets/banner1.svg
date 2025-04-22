@@ -1,1 +1,42 @@
-
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark background with gradient -->
+  <rect width="1200" height="300" fill="#0D1117" />
+  <rect width="1200" height="300" fill="url(#darkGradient)" />
+  
+  <!-- Gradient definitions -->
+  <defs>
+    <linearGradient id="darkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="70%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#21262D" />
+    </linearGradient>
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5277" />
+      <stop offset="100%" stop-color="#8A2BE2" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Decorative elements -->
+  <line x1="20" y1="20" x2="1180" y2="20" stroke="#30363D" stroke-width="2" />
+  <line x1="20" y1="280" x2="1180" y2="280" stroke="#30363D" stroke-width="2" />
+  
+  <!-- Main title -->
+  <text x="60" y="125" font-family="monospace" font-size="85" font-weight="900" fill="white">DISTRACTIONS--</text>
+  
+  <!-- Tagline with attitude -->
+  <text x="65" y="170" font-family="monospace" font-size="24" fill="#8B949E">FOCUS MODE: ABSOLUTELY FERAL</text>
+  
+  <!-- Edgy phrases -->
+  <text x="840" y="80" font-family="monospace" font-size="22" fill="url(#accentGradient)" transform="rotate(-5, 840, 80)">DESTROY YOUR DOOM SCROLLING</text>
+  <text x="815" y="200" font-family="monospace" font-size="22" fill="url(#accentGradient)" transform="rotate(-5, 815, 200)">YEET THE DISTRACTIONS</text>
+  
+  <!-- Decorative code-like elements -->
+  <text x="65" y="220" font-family="monospace" font-size="18" fill="#8B949E">if(distraction) { return null; }</text>
+  
+  <!-- Glitch effect lines -->
+  <line x1="60" y1="135" x2="600" y2="135" stroke="url(#accentGradient)" stroke-width="3" />
+  <line x1="70" y1="140" x2="580" y2="140" stroke="#30363D" stroke-width="2" />
+  
+  <!-- Asterisks with attitude -->
+  <text x="65" y="260" font-family="monospace" font-size="14" fill="#8B949E">* no more bs excuses</text>
+</svg>
