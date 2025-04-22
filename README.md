@@ -115,9 +115,8 @@ sudo ./distractions--.sh
 ---
 
 ## 🖼️ License
-
-MIT License. Use it, hack it, improve it — just don’t use it to be evil.
+GNU GENERAL PUBLIC LICENSE License. Use it, hack it, improve it — just don’t use it to be evil.
 
 ---
 
-> ✨ Stay focused, stay free from distractions. You deserve to win. 💪
+> ✨ Stay focused, stay free from distractions. You deserve to win king. 💪
