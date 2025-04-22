@@ -1,7 +1,3 @@
-## ⚠️ WARNING:
-Please proceed with caution and read the script file before actually executing anything. I am no professional developer. I just created this a week before my IGCSEs as i got too distracted by social media and some websites (pH, insta and shit like that).
-
-
 # 🧠 Distractions--(Distractions minus minus)
 _(lame ahh name ik)_
 
@@ -38,7 +34,10 @@ _(lame ahh name ik)_
 5. After time is up: `at` job unlocks `/etc/hosts` and restores backup
 
 ---
+## ⚠️ WARNING:
+Please proceed with caution and read the script file before actually executing anything. I am no professional developer. I just created this a week before my IGCSEs as i got too distracted by social media and some websites (pH, insta and shit like that).
 
+---
 ## 📦 Dependencies required
 
 - `zenity`
@@ -109,13 +108,13 @@ sudo ./distractions--.sh
 **Distractions--** by [moron]
 
 - 📧 Email: govinpaul2008@gmail.com
-- 🌐 Website: not yet
-- 🐙 GitHub: moron6554(https://github.com/moron6554)
+- 🌐 Discord: @moron65
+- 🐙 GitHub: (https://github.com/moron6554)
 
 ---
 
 ## 🖼️ License
-GNU GENERAL PUBLIC LICENSE License. Use it, hack it, improve it — just don’t use it to be evil.
+GNU GENERAL PUBLIC LICENSE License.
 
 ---
 
