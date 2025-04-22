@@ -126,7 +126,7 @@ I developed this to block certain sites that ruined my productivity online weeks
 
 ## 📝 To-Do / Ideas
 
-- [x] Add auto-restart blocker on reboot (via cron)
+- [x] Add auto-restart blocker on reboot
 - [ ] Block on schedule (e.g., 8am–10am daily)
 - [ ] GUI version with GTK or Python frontend
 - [ ] Windows and Mac version
